@@ -1,0 +1,9 @@
+ajax
+asymchromouc javascript and xml
+uses:
+keeps the same url and works fast and it wont reload
+client
+browser (request )    server(request)  bb server
+                                        (response)    
+
+presentation
